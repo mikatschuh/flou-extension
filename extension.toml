@@ -1,0 +1,7 @@
+id = "flou-extension"
+name = "Flou"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mika Aßmus mika.assmus@gmail.com"]
+description = "Support for the Flou Programming Language"
+repository = "https://github.com/"
