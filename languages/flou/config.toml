@@ -19,5 +19,5 @@ brackets = [
 ]
 
 [grammars.flou]
-repository = "https://github.com/gleam-lang/tree-sitter-gleam"
-rev = "58b7cac8fc14c92b0677c542610d8738c373fa81"
+repository = "https://github.com/mikatschuh/tree-sitter-flou"
+rev = "e677b00595616c6c0411801da4a1337260bd23c1"
