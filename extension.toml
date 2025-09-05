@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Mika Aßmus mika.assmus@gmail.com"]
 description = "Support for the Flou Programming Language"
 repository = "https://github.com/mikatschuh/flou-extension"
+
+[grammars.flou]
+repository = "https://github.com/mikatschuh/tree-sitter-flou"
+rev = "e677b00595616c6c0411801da4a1337260bd23c1"

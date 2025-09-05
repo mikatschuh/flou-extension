@@ -1,5 +1,5 @@
 name = "Flou"
-grammar = "flou-grammar"
+grammar = "flou"
 path_suffixes = ["f"]
 line_comments = ["//"]
 
@@ -17,7 +17,3 @@ brackets = [
         "string",
     ] },
 ]
-
-[grammars.flou]
-repository = "https://github.com/mikatschuh/tree-sitter-flou"
-rev = "e677b00595616c6c0411801da4a1337260bd23c1"
